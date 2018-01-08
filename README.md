@@ -12,6 +12,7 @@ Side-scroller game with a level editor.
  
  
  ![Icons:](/Assets/Textures/EditorUI/icons8-Thumbnails-128.png) 
+ 
  Editor icons by [Icons8](http://icons8.com)
  
  
