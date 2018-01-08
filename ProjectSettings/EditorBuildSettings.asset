@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Editor.unity
+    guid: 8f65ac6c85a8c4479887fb2d9dda00d2
+  - enabled: 1
+    path: Assets/Scenes/TitileScreen.unity
+    guid: a0142c312d5f64c38846709c9134d861
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 39bc441d3e21c4cc699509275482cbce
+  - enabled: 0
+    path: 
+    guid: baf3be61c4c5c424da97956a96f7e31c
+  - enabled: 0
+    path: 
+    guid: b3304584a7025c04ba3435059c8c9869
+  - enabled: 0
+    path: 
+    guid: f8f0482735a59104d8d643281adbed3e
+  - enabled: 0
+    path: 
+    guid: b4f05d11906b88142b5b7e049bb69e3d
+  - enabled: 0
+    path: 
+    guid: 3fb3027d1eeb5a34aa6869681466ce11
+  - enabled: 0
+    path: 
+    guid: ae47e37fa50b6614797cb12191315b80
+  - enabled: 0
+    path: 
+    guid: d771ccc6318324246963ad9a3293a957
+  - enabled: 0
+    path: 
+    guid: 838804acbd066e448947474217191257
+  - enabled: 0
+    path: 
+    guid: 1bc702d9f9ff53348a04f10a4e8080aa
+  - enabled: 0
+    path: 
+    guid: a85f86615baf5364883a2766acc1e434
+  - enabled: 0
+    path: 
+    guid: dd9ad722b3667604e982e7436b642e7a
+  - enabled: 0
+    path: 
+    guid: 0e1a70a70d7bd604d9ac7a97e8dfef4b
+  - enabled: 0
+    path: 
+    guid: 58e3e338342b46149b1ebd39c044d6cc
+  - enabled: 0
+    path: 
+    guid: b29818d03a39acb4d9c920889eb5accc
+  - enabled: 0
+    path: 
+    guid: 8524545aecf167f478229acfd5e34f55
+  - enabled: 0
+    path: 
+    guid: 6901939d86a46d546b3508197b2d5f4d
+  - enabled: 0
+    path: 
+    guid: 75d2f0f00f1996b48903add06b0ca95b
+  - enabled: 0
+    path: 
+    guid: 5debd9e7db235a544b097b890452f31b
+  - enabled: 0
+    path: 
+    guid: d9510bdb8e85c7c4dab65c09e04ef8dc
+  - enabled: 0
+    path: 
+    guid: d1d76989685aa4744994960aae8bd9a8
+  - enabled: 0
+    path: 
+    guid: 41cdda4fd19e9664b91881af5a5c5cec
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 12b35643cc4a742a786d498521f11d25
+  - enabled: 1
+    path: Assets/Scenes/InfiniteCosmos.unity
+    guid: 95716f3355bde4c2288408dbec556141
+  - enabled: 1
+    path: Assets/Scenes/InfiniteLong.unity
+    guid: 4892ce2a793fc40e5ac76d71a721c209
