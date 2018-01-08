@@ -1,10 +1,12 @@
 # CosmoCats
-![===](/Assets/Textures/tempShip2.png)
 
 Side-scroller game with a level editor.
 
  * Run the game from **TitleScreen** scene.
  * Run the level editor from **Editor** scene.
+ 
+ 
+![===](/Assets/Textures/tempShip2.png)
  
  
  * Graphics by: Ekaterina Nesterenko
