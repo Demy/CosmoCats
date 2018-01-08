@@ -6,6 +6,11 @@ Side-scroller game with a level editor.
  * Run the level editor from **Editor** scene.
  
  
+ ## Dependencies:
+ * StylizedExplosionPack1
+ * Tween for Unity by Jeff Johnson
+ 
+ 
 ![===](/Assets/Textures/tempShip2.png)
  
  
