@@ -1,6 +1,6 @@
 # CosmoCats
 
-Side-scroller game with a level editor.
+Side-scroller game scratches with a level editor included.
 
  * Run the game from **TitleScreen** scene.
  * Run the level editor from **Editor** scene.
