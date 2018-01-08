@@ -1,3 +1,9 @@
 
 *.backup
-Temp/__Backupscenes/0.backup
+Temp/
+Assets/Tween.meta
+Assets/Tween/
+Assets/StylizedExplosionPack.meta
+Assets/StylizedExplosionPack/
+Library/
+.idea/

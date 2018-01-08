@@ -27,7 +27,6 @@ namespace SceneEditor
 
         private void Start()
         {
-            FillGrid(COLS, ROWS);
             FillList();
         }
 
@@ -101,6 +100,7 @@ namespace SceneEditor
 
         public void Load(LevelPiece level)
         {
+            FillGrid(COLS, ROWS);
             data = level;
             List<LevelPiece.Item> items = level.GetItems();
             int size = items.Count;

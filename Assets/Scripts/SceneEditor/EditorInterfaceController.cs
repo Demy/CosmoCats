@@ -24,7 +24,6 @@ namespace SceneEditor
         private void Start()
         {   
             selectPieceMenu.SetActive(false);
-            scene = GetComponent<SceneSchemeController>();
         }
 
         public void ShowSlots(List<LoadingController.SaveSlot> slots, Action<int> loadSlot)
@@ -65,7 +64,10 @@ namespace SceneEditor
 
         private void LoadSelectedLevel()
         {
+            if (!scene) scene = GetComponent<SceneSchemeController>();
+            
             editedPiece = levelList.value;
+            
             scene.Clear();
             scene.Load(levels.levels[levelList.value]);
         }

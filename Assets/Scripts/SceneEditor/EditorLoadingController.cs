@@ -28,10 +28,10 @@ namespace SceneEditor
 		{
 			if (list != null)
 			{
-				StartCoroutine(loader.SaveLevels(list, delegate
+				loader.SaveLevels(list, delegate
 				{
 					FindObjectOfType<ButtonIconChanger>().TemporaryChange();
-				}));
+				});
 			}
 		}
 

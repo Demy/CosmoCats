@@ -7,8 +7,8 @@ Side-scroller game with a level editor.
  
  
  ## Dependencies:
- * StylizedExplosionPack1
- * Tween for Unity by Jeff Johnson
+ * StylizedExplosionPack1 (only for the explosion graphics, could be ignored)
+ * Tween for Unity by Jeff Johnson (must have, free)
  
  
 ![===](/Assets/Textures/tempShip2.png)
